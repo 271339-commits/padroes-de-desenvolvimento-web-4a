@@ -11,5 +11,6 @@ public class ProdutoRecurso {
     @GET
   public List <Produto> listar () {
     return Produto.listAll();
+    //..//
   }
 }
